@@ -1,0 +1,24 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Alice",
+    "orders": [
+      {
+        "order_id": 3001,
+        "items": [
+          { "product": "Laptop", "qty": 1 },
+          { "product": "Mouse", "qty": 2 }
+        ]
+      },
+      {
+        "order_id": 3002,
+        "items": [{ "product": "Keyboard", "qty": 1 }]
+      }
+    ]
+  },
+  {
+    "customer_id": 2,
+    "name": "Bob",
+    "orders": []
+  }
+]

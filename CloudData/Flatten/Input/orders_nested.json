@@ -1,0 +1,18 @@
+[
+  {
+    "order_id": 2001,
+    "customer": "Charlie",
+    "items": [
+      {
+        "product": "Phone",
+        "price": 500,
+        "tags": ["electronics", "mobile"]
+      },
+      {
+        "product": "Charger",
+        "price": 25,
+        "tags": ["accessory"]
+      }
+    ]
+  }
+]

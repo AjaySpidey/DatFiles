@@ -1,0 +1,5 @@
+EmpID,EmpName,Salary,Department
+E101,Ajay,50000,IT
+E102,Ravi,-2000,HR
+E103,Sneha,65000,Finance
+E104,Meena,0,Admin

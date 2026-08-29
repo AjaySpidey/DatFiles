@@ -1,0 +1,15 @@
+[
+  {
+    "order_id": 1001,
+    "customer": "Alice",
+    "items": [
+      { "product": "Laptop", "price": 800 },
+      { "product": "Mouse", "price": 20 }
+    ]
+  },
+  {
+    "order_id": 1002,
+    "customer": "Bob",
+    "items": [{ "product": "Keyboard", "price": 50 }]
+  }
+]

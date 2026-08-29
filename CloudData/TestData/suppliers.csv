@@ -1,0 +1,16 @@
+supplier_name,contact_email,country,rating
+Supplier A,contact@supplier1.com,Germany,2.8
+Supplier B,contact@supplier2.com,USA,2.3
+Supplier C,contact@supplier3.com,UK,3.2
+Supplier D,contact@supplier4.com,China,3.2
+Supplier E,contact@supplier5.com,France,2.0
+Supplier F,contact@supplier6.com,India,3.5
+Supplier G,contact@supplier7.com,China,3.8
+Supplier H,contact@supplier8.com,UK,1.1
+Supplier I,contact@supplier9.com,Japan,4.6
+Supplier J,contact@supplier10.com,Japan,1.2
+Supplier K,contact@supplier11.com,China,1.2
+Supplier L,contact@supplier12.com,China,4.2
+Supplier M,contact@supplier13.com,Japan,2.1
+Supplier N,contact@supplier14.com,India,3.6
+Supplier O,contact@supplier15.com,USA,1.3

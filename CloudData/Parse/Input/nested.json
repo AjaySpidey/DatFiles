@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "orders": [
+      {
+        "orderId": 101,
+        "amount": 500
+      },
+      {
+        "orderId": 102,
+        "amount": 700
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alice",
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "orders": [
+      {
+        "orderId": 103,
+        "amount": 300
+      }
+    ]
+  }
+]
