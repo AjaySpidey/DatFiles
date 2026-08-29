@@ -1,0 +1,12 @@
+<customers>
+  <customer id="1" status="active">
+    <name>John</name>
+    <age>30</age>
+    <city>Bangalore</city>
+  </customer>
+  <customer id="2" status="inactive">
+    <name>Alice</name>
+    <age>25</age>
+    <city>Mumbai</city>
+  </customer>
+</customers>

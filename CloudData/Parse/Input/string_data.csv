@@ -1,0 +1,4 @@
+id|name|raw_data
+1|John|{"age":30,"city":"Bangalore"}
+2|Alice|<person><age>25</age><city>Mumbai</city></person>
+3|Bob|{"age":35,"city":"Delhi"}
